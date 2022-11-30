@@ -1,0 +1,20 @@
+.formulario {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 80px 0;
+  align-content: center;
+}
+
+.formulariogeral {
+  max-width: 80%;
+  border-color: rgb(120, 125, 125);
+}
+
+.sub-titulo {
+  font-family: 'VALORANT 2';
+  font-size: 45px;
+  color: white;
+  justify-content: center;
+  text-align: center;
+}

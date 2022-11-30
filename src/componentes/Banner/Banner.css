@@ -1,0 +1,11 @@
+.banner {
+  text-align: center;
+  background-color: #ff4656;
+  padding: top 10px;
+}
+
+.banner img {
+  height: 260px;
+  max-width: 100%;
+  width: 900px;
+}

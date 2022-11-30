@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'VALORANT 2';
+  src: url(/src/componentes/fontes/Coluna_Rounded.otf);
+}
+
+.campo-texto {
+  margin: 24px 0;
+}
+
+.campo-texto label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 25px;
+  color: #ff4656;
+  font-family: 'VALORANT', sans-serif;
+  text-align: center;
+}
+
+.campo-texto input {
+  background-color: #fff;
+  box-shadow: 10px 10px 30px rgba(231, 226, 226, 0.2);
+  width: 100%;
+  border: 10px black;
+  font-size: 24px;
+  padding: 24px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.campo-texto ::placeholder {
+  padding-right: 30px;
+  text-align: center;
+  padding-left: 40px;
+}
